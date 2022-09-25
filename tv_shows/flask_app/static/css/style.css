@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 10px;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 10px;
+}
+
+#right_align {
+    display: flex;
+    justify-content: right;
+}
+
+
+#vertical_form {
+    align-items: center;
+    display: flex;
+    margin: 10px 20px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 250px;
+}
+
+#show_box {
+    border: black;
+    border-width: medium;
+    border-style: solid;
+}
